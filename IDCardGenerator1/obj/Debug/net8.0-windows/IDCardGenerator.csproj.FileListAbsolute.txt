@@ -1,0 +1,39 @@
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\bin\Debug\net8.0-windows\IDCardGenerator.exe
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\bin\Debug\net8.0-windows\IDCardGenerator.deps.json
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\bin\Debug\net8.0-windows\IDCardGenerator.runtimeconfig.json
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\bin\Debug\net8.0-windows\IDCardGenerator.dll
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\bin\Debug\net8.0-windows\IDCardGenerator.pdb
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.ImageCatalogForm.resources
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.Properties.Resources.resources
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.csproj.GenerateResource.cache
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.AssemblyInfoInputs.cache
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.AssemblyInfo.cs
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.dll
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\refint\IDCardGenerator.dll
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.pdb
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.genruntimeconfig.cache
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\ref\IDCardGenerator.dll
+C:\Users\ZachP\Desktop\Employee ID\GUIT\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\ShadowButton.resources
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\bin\Debug\net8.0-windows\IDCardGenerator.exe
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\bin\Debug\net8.0-windows\IDCardGenerator.deps.json
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\bin\Debug\net8.0-windows\IDCardGenerator.runtimeconfig.json
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\bin\Debug\net8.0-windows\IDCardGenerator.dll
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\bin\Debug\net8.0-windows\IDCardGenerator.pdb
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\ShadowButton.resources
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.ImageCatalogForm.resources
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.Properties.Resources.resources
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.csproj.GenerateResource.cache
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.AssemblyInfoInputs.cache
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.AssemblyInfo.cs
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.dll
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\refint\IDCardGenerator.dll
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.pdb
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.genruntimeconfig.cache
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\ref\IDCardGenerator.dll
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGenerator.csproj.AssemblyReference.cache
+C:\Users\ZachP\Desktop\IDCardGenerator\IDCardGenerator\obj\Debug\net8.0-windows\IDCardGe.E32D7F97.Up2Date
